@@ -17,11 +17,6 @@ Projet de conception et configuration d’un réseau d’entreprise sécurisé p
 -  Connexion SSH depuis PC IT
 -  Accès Internet simulé vers FAI et PC-Internet
 
-## Contenu du dépôt
-- `liberation.pkt` : topologie Packet Tracer
-- `presentation.pdf` : slides de soutenance
-- `screenshots/` : captures d’écran des configurations et tests
-- `rapport.pdf` : documentation complète
 
 ## Technologies utilisées
 - Cisco Packet Tracer
